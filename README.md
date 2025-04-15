@@ -28,7 +28,7 @@ The images are grayscale CT scans, organized into class folders:
 ```
 /HEPATO/CT/
 ├── HEPATO/
-├── reem project normal cases/
+├── normal cases/
 ```
 
 ---
